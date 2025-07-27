@@ -16,7 +16,7 @@
 #include <time.h>
 
 // Uncomment the next line to print debugging info
-#define DEBUG
+//#define DEBUG
 
 // Uncomment the next line to print even more debugging info
 //#define MORE_DEBUG

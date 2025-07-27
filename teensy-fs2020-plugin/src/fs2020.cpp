@@ -5,7 +5,7 @@
 #include "jetbridge.h"
 #include "fs2020.h"
 
-const char* VersionString = "v1.2.0";
+const char* VersionString = "v1.2.1";
 
 const int MaxDataMappings = 256;
 
